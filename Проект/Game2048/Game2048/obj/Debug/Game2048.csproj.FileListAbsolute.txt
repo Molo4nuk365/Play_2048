@@ -1,0 +1,69 @@
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\Game2048.exe.config
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\Game2048.exe
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\Game2048.pdb
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Buffers.dll
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.IO.Pipelines.dll
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Memory.dll
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Numerics.Vectors.dll
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Text.Encodings.Web.dll
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Text.Json.dll
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Buffers.xml
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.IO.Pipelines.xml
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Memory.xml
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Numerics.Vectors.xml
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Text.Encodings.Web.xml
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Text.Json.xml
+E:\КУРСАЧ\Проект\Game2048\Game2048\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Game2048.csproj.AssemblyReference.cache
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Play2048.AdminPanel.resources
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Play2048.Authorization.resources
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Play2048.Form1.resources
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Play2048.GameOverForm.resources
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Play2048.instruction.resources
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Game2048.csproj.Up2Date
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Game2048.exe
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Game2048.pdb
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Play2048.Games2048.resources
+E:\КУРСАЧ\Проект\Game2048\Game2048\obj\Debug\Game2048.exe.config
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\Game2048.exe.config
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\Game2048.exe
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\Game2048.pdb
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Buffers.dll
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.IO.Pipelines.dll
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Memory.dll
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Numerics.Vectors.dll
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Text.Encodings.Web.dll
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Text.Json.dll
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Buffers.xml
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.IO.Pipelines.xml
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Memory.xml
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Numerics.Vectors.xml
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Text.Encodings.Web.xml
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Text.Json.xml
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\obj\Debug\Game2048.csproj.AssemblyReference.cache
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\obj\Debug\Play2048.AdminPanel.resources
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\obj\Debug\Play2048.Authorization.resources
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\obj\Debug\Play2048.Form1.resources
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\obj\Debug\Play2048.Games2048.resources
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\obj\Debug\Play2048.GameOverForm.resources
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\obj\Debug\Play2048.instruction.resources
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\obj\Debug\Game2048.csproj.Up2Date
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\obj\Debug\Game2048.exe
+D:\Проект курсовая 2048\Проект\Game2048\Game2048\obj\Debug\Game2048.pdb
